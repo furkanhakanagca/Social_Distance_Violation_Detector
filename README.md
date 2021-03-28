@@ -6,3 +6,4 @@ Türkiye’de ve tüm dünyada pandemi başlangıcından bu yana ısrarla vurgul
 
 Proje yapım aşamasında ilk olarak, Github gibi online platformlardan ve Kodluyoruz eğitmen ve asistanların verdikleri eğitimlerden derin öğrenme ve görüntü işleme konuları hakkında bilgi edinilmiştir. Edinilen bilgilerden sonra projenin ilk adımı olan model seçimi ve algoritmaların seçimi yapılmıştır. Bu kısımda görüntü işleme alanında sıklıkla kullanılan Tensorflow modelleri uygulanmıştır ve bu modellerden proje için en uygun iki model seçilmiştir. Model seçimi tamamlandıktan sonra testler yapılıp proje tamamlanmıştır. 
 
+![](taksim.gif)
