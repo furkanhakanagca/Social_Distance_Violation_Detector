@@ -1,6 +1,6 @@
 # Social Distance Violation Detector
 
-Sosyal mesafe ihlali projesi Furkan, Ege ve Tuğçe’dan oluşan dISTance ekibi tarafından yapılmıştır. Projenin amacı sosyal mesafe ihlali yapan insanların tespitinin hızlı ve otomatik bir şekilde yapılmasını sağlamaktır.
+Sosyal mesafe ihlali projesi Furkan, Ege ve Tuğçe’den oluşan dISTance ekibi tarafından yapılmıştır. Projenin amacı sosyal mesafe ihlali yapan insanların tespitinin hızlı ve otomatik bir şekilde yapılmasını sağlamaktır.
 
 Türkiye’de ve tüm dünyada pandemi başlangıcından bu yana ısrarla vurgulanan konuların en başında sosyal mesafeye uyum gelmektedir. Mesafe tanımı ülkeden ülkeye değişse de temelde amaç belirli mesafeyi koruyarak virüs yayılımını önlemektir. Bu proje ile birlikte insanların sosyal mesafe konusunda daha bilinçli olması, sosyal mesafe kuralını denetleyen görevlilerin iş yükünün azaltılması ve sosyal mesafeye uyulmayan yerler için birtakım özel tedbirlerin alınmasının kolaylaşması amaçlanmıştır. 
 
